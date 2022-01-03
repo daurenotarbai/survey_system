@@ -24,7 +24,7 @@ After running the above command, the survey application will be available at htt
 
 The admin portal can be accessed at http://localhost:8000/admin
 
-The swagger documentation of the project API you can find at http://localhost:8000/api/v1/documentation
+The swagger documentation of the project API http://localhost:8000/api/v1/documentation
 
 ## Features:
 ##### There are 3 types of questions
